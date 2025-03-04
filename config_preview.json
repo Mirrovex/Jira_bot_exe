@@ -1,0 +1,30 @@
+{
+    "token": "AAA0aAAA0000AAAaaaAA000",
+    "systems": {
+        "cepik": {
+            "code": "ZKOUU-644",
+            "time_spent": "3h",
+            "comment": "Obsługa infolinii i zgłoszeń dotyczących projektu CEPIK"
+        },
+        "srp": {
+            "code": "ZKOUU-838",
+            "time_spent": "2h",
+            "comment": "Obsługa infolinii i zgłoszeń dotyczących projektu SRP"
+        },
+        "rcho": {
+            "code": "ZKOUU-1009",
+            "time_spent": "1h",
+            "comment": "Obsługa zgłoszeń dotyczących projektu RCHO"
+        },
+        "zir": {
+            "code": "ZKOUU-1309",
+            "time_spent": "1h",
+            "comment": "Obsługa zgłoszeń dotyczących projektu ZIR"
+        },
+        "pz": {
+            "code": "ZKOUU-662",
+            "time_spent": "1h",
+            "comment": "Obsługa infolinii i zgłoszeń dotyczących projektu PZ"
+        }
+    }
+}
