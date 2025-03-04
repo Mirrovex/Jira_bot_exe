@@ -26,7 +26,7 @@ Token jest używany zamiast loginu i hasła, należy go wcześniej utworzyć i d
 
 Konfiguracja systemów:
 W "config.json" można ustawić na jakich systemach i po ile godzin program będzie logować czas pracy
-1. Wejdź w config.json
+1. Wejdź lub stwórz plik "config.json"
 2. W "systems" możesz dodać więcej syststemów/usunąć te które są
 3. Dodany system powinien wyglądać tak:
     "dowolna nazwa, np. cepik": {
